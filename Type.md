@@ -2,7 +2,7 @@
 ### these are the types of the variables you will use in python ###
 - strings(str) >> a line of word(s) or letter(s) which can be called upon to print what it says in the quotation marks - [Learn More](https://github.com/AileshC/Basic_Python/blob/master/String.md) 
 
-- integers(int) >> numbers, can be as long as you want. even if you do mathamatical functions with them.
+- Numbers >> there are many ways that you can use numbers in python
 
 - float >> a number with a decimal place
 

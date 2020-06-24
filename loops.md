@@ -4,10 +4,10 @@
 ## While Loops ##
 - this loop is used to loop a certain function until a variable is changed to the limit put in the loop's code
 ### examples ###
-- i = 1
+- '''i = 1
 while i < 6:
   print(i)
-  i += 1
+  i += 1'''
 
 -i = 1
 while i < 6:

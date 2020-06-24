@@ -4,7 +4,7 @@
 
 - Numbers >> there are many ways that you can use numbers in python - [Learn More](https://github.com/AileshC/Basic_Python/blob/master/Numbers.md)
 
-- bool >> type which can have two values, True or False.
+- bool >> type which can have two values, True or False. - [Learn More](https://github.com/AileshC/Basic_Python/blob/master/Bool.md)
 
 - list >> type which carries many variables into a ordered format keeping all the data (to call the first section, you use 0 instead of 1)
 

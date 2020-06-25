@@ -16,3 +16,4 @@
 
 - print("""Python is cool, you can learn a lot.""")
 - print('''Python is cool, you can learn a lot.''')
+### Click [Here](https://github.com/AileshC/Basic_Python/blob/master/Type.md) to go learn about more variables ###

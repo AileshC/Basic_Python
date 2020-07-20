@@ -5,8 +5,8 @@
 - thisdict = {
 -  "brand": "Ford",
 - "model": "Mustang",
--"year": 1964
--}
--x = thisdict["model"]
+- "year": 1964
+- }
+- x = thisdict["model"]
 print(thisdict)
 ### Click [Here](https://github.com/AileshC/Basic_Python/blob/master/Type.md) to go learn about more variables ###
